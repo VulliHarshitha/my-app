@@ -5,7 +5,7 @@ import Orange from './Orange';
 function App() {
   return (
     <div className="App">
-      <Apple name="Meghana" />
+      <Apple name="harshitha" />
       <Orange />
       
     </div>
